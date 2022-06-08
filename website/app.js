@@ -1,6 +1,6 @@
 /* Global Variables */
 // Personal API Key for openWeatherMap API
-const apiKey = "2dc5653e85bc79563bdca0db3faac5f3&units=imperial";
+const apiKey = "";
 const generate = document.getElementById('generate');
 const zipCode = document.getElementById('zip');
 const feelings = document.getElementById('feelings');
